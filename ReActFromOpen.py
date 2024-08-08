@@ -8,11 +8,11 @@ from langchain.schema import (
 
 def query_wenxin(user_question):
     # 谷歌搜索的Key
-    os.environ["SERPAPI_API_KEY"] = '31a3c96f0ce535fd1b43117d3c9298c66753b6dae1da9074708f03ecc8282367'
+    os.environ["SERPAPI_API_KEY"] = 'xxxxxxxxxxxxxxxxxx'
 
     # 文心model
-    WENXIN_APP_Key = "6EMY3gUCVVCe9aT40GsbEuE6"
-    WENXIN_APP_SECRET = "zLMlLQOn80gpnVwCsZ4mnAr3vHhtBG7r"
+    WENXIN_APP_Key = "xxxxxxxxxxxxxxxxxxx"
+    WENXIN_APP_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
     chat_model = ChatWenxin(
         temperature=0.9,
