@@ -75,12 +75,12 @@ streamlit run xtuner_streamlit_demo.py
 ```
 
 5. 效果图
+![8b7983df211035082d08239f463859f](https://github.com/user-attachments/assets/8442d56b-bc5e-44be-a71c-8bb2ec8454dc)
 
-![image-20240808155718183](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240808155718183.png)
 
 
 
 #### 3.项目结构图
+![image](https://github.com/user-attachments/assets/e44d4ee5-8a03-439c-9a92-6cdc0ee2fe9f)
 
-![image-20240808192627152](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240808192627152.png)
 
