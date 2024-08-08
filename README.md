@@ -82,6 +82,7 @@ streamlit run xtuner_streamlit_demo.py
 
 
 #### 3.项目结构图
-![image](https://github.com/user-attachments/assets/e44d4ee5-8a03-439c-9a92-6cdc0ee2fe9f)
+![image](https://github.com/user-attachments/assets/c98c1647-3de7-4c8a-b8a2-956415191f07)
+
 
 
